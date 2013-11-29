@@ -1,4 +1,3 @@
-
 # shadow-walker
 
 ***
@@ -8,7 +7,7 @@
 * FTP Server
 * SMB shared
 * HTTP downloadable file
-* **Git repository
+* *Git repository
 
 # manifest provider
 
