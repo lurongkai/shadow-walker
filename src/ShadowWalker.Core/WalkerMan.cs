@@ -10,7 +10,7 @@ namespace ShadowWalker.Core
     {
         private WalkerMan() { }
 
-        public static WalkerMan InitializeWith(ISynchronizeStrategy synchronizeStrategy)
+        public static WalkerMan Initialize(ISynchronizeStrategy synchronizeStrategy)
         {
             throw new NotImplementedException();
         }
